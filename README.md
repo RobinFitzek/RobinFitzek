@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/orbital-system.svg" width="840" alt="A cat at the center of an animated planetary system" />
+  <img src="assets/colorful-orbits.svg" width="840" alt="A cat at the center of an animated planetary system" />
   <br />
   <img src="assets/neon-profile.gif" width="840" alt="Animated anime avatar with a cat frame over my Steam background" />
 </p>
