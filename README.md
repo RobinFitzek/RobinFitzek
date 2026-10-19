@@ -1,10 +1,18 @@
-<p align="center">
-  <img src="assets/cosmic-cat.svg" width="840" alt="A cat at the center of an animated planetary system" />
-  <br />
-  <img src="assets/neon-profile.gif" width="840" alt="Animated anime avatar with a cat frame over my Steam background" />
-</p>
-<p align="center">
-  <a href="https://github.com/RobinFitzek?tab=repositories"><img src="assets/cosmic-languages.svg" width="250" alt="Languages by source bytes in public non-fork repositories" /></a>
-  <a href="https://github.com/RobinFitzek?tab=overview"><img src="assets/cosmic-activity.svg" width="250" alt="404 contributions in the past year" /></a>
-  <a href="https://github.com/RobinFitzek?tab=repositories"><img src="assets/cosmic-projects.svg" width="250" alt="Eight public non-fork repositories, including Kern, News-Flutter-Application and open-llm" /></a>
-</p>
+## Hi, I'm Robin 👋
+
+Software developer based in Germany. I build mobile apps with **Flutter** and **Kotlin**, backend services in **Python**, and like experimenting with AI — from LLM pipelines to running models locally on-device.
+
+### Selected projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Kern**](https://github.com/RobinFitzek/Kern) | Modular health coaching app for Android with a plugin architecture and Health Connect integration (readiness, sleep, strain). | Flutter · Dart |
+| [**Stockholm**](https://github.com/RobinFitzek/News) | Self-hosted AI investment monitor: quantitative screening, real-time market intelligence and AI research synthesis in a budget-aware pipeline. | Python |
+| [**open-llm**](https://github.com/RobinFitzek/open-llm) | Runs LLMs locally on the NPU of Snapdragon Android devices. | Kotlin |
+| [**file-upload-api**](https://github.com/RobinFitzek/file-upload-api) | REST API for uploading, validating and storing geodata from CSV and NAS files in PostgreSQL. | Python · PostgreSQL |
+| [**hermes-secret-handoff**](https://github.com/RobinFitzek/hermes-secret-handoff) | Short-lived, Tailscale-only UI for handing API credentials to an agent without exposing them in chat. | Python |
+
+### Tech stack
+
+**Languages:** Python · Dart · Kotlin · TypeScript · Java
+**Frameworks & tools:** Flutter · FastAPI · PostgreSQL · Docker · Git · Linux
